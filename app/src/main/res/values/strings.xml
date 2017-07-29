@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Last_fm</string>
+    <array name="for_spinner">
+        <item>Ukraine</item>
+        <item>Spain</item>
+        <item>Germany</item>
+    </array>
+    <string name="title_activity_artist">ArtistActivity</string>
+    <string name="title_activity_album">AlbumActivity</string>
+</resources>
